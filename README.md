@@ -27,3 +27,6 @@ getting auc from 94.08 to 95.89 in public leader board.
 - https://www.kaggle.com/yasagure/places-after-the-decimal-point-tell-us-a-lot
 - https://www.kaggle.com/jolly2136/eda-fe-xgb
 - https://www.kaggle.com/yasagure/fraud-makers-are-earnest-people-about-browser
+## Blog
+- I have written a detailed blog on this case study.
+- Link : https://medium.com/@gtavicecity581/ieee-fraud-detection-469398ce1ac4
